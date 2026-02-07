@@ -1,0 +1,5 @@
+{
+  "name": "SSTI Master - Security Payload Generator",
+  "description": "An advanced security research tool designed for generating Server-Side Template Injection (SSTI) payloads with intelligent bypass logic for various WAF configurations.",
+  "requestFramePermissions": []
+}
